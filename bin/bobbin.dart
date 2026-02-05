@@ -80,4 +80,3 @@ int _patch(List<String> args) {
   stdout.write(result);
   return 0;
 }
-
